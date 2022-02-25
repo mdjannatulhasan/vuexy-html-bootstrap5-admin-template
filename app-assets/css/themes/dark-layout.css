@@ -361,17 +361,17 @@ body.dark-layout {
   color: #b8c2cc; }
 
 .dark-layout .btn.btn-dark {
-  background-color: #4b4b4b !important; }
+  background-color: #545454 !important; }
 
 .dark-layout .btn.btn-outline-dark {
-  border-color: #4b4b4b;
+  border-color: #545454;
   color: #b8c2cc; }
 
 .dark-layout .btn.btn-outline-dark:hover:not(.disabled):not(:disabled) {
   color: #b8c2cc; }
 
 .dark-layout .btn.btn-flat-dark:active, .dark-layout .btn.btn-flat-dark:focus {
-  background: #4b4b4b; }
+  background: #545454; }
 
 .dark-layout .btn-group label[class*='btn-outline-'] {
   color: #117B5B !important; }
@@ -620,7 +620,7 @@ body.dark-layout {
   background-color: #161d31; }
 
 .dark-layout .card-tiny-line-stats .apexcharts-series-markers .apexcharts-marker {
-  stroke: #00cfe8; }
+  stroke: #0886E6; }
 
 .dark-layout .card-tiny-line-stats .apexcharts-series-markers:last-child .apexcharts-marker {
   fill: #283046; }
@@ -786,7 +786,7 @@ body.dark-layout {
   color: #d0d2d6; }
 
 .dark-layout .table thead.table-dark th {
-  color: #4b4b4b;
+  color: #545454;
   background-color: #fff; }
 
 .dark-layout .table:not(.table-dark):not(.table-light) thead:not(.table-dark) th,
@@ -797,7 +797,7 @@ body.dark-layout {
   background-color: #fff; }
 
 .dark-layout .table.table-dark.table-striped tbody tr:nth-of-type(odd) {
-  --bs-table-accent-bg: rgba(75, 75, 75, 0.05); }
+  --bs-table-accent-bg: rgba(84, 84, 84, 0.05); }
 
 .dark-layout .table.table-dark td,
 .dark-layout .table.table-dark th {
@@ -806,7 +806,7 @@ body.dark-layout {
 
 .dark-layout .table.table-dark td .text-white,
 .dark-layout .table.table-dark th .text-white {
-  color: #4b4b4b !important; }
+  color: #545454 !important; }
 
 .dark-layout .table tbody tr.table-dark td,
 .dark-layout .table tbody tr.table-dark th {

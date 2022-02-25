@@ -4,7 +4,7 @@
 
 .jq-ry-container:not(.multi-color-ratings) .jq-ry-rated-group i,
 .jq-ry-container:not(.multi-color-ratings) .jq-ry-rated-group svg {
-  fill: #ff9f43; }
+  fill: #F0C11B; }
 
 .dark-layout .jq-ry-container:not(.multi-color-ratings) .jq-ry-normal-group i,
 .dark-layout .jq-ry-container:not(.multi-color-ratings) .jq-ry-normal-group svg {
@@ -12,7 +12,7 @@
 
 [data-textdirection='rtl'] .jq-ry-container:not(.multi-color-ratings) .jq-ry-normal-group i,
 [data-textdirection='rtl'] .jq-ry-container:not(.multi-color-ratings) .jq-ry-normal-group svg {
-  fill: #ff9f43; }
+  fill: #F0C11B; }
 
 [data-textdirection='rtl'] .jq-ry-container:not(.multi-color-ratings) .jq-ry-rated-group i,
 [data-textdirection='rtl'] .jq-ry-container:not(.multi-color-ratings) .jq-ry-rated-group svg {

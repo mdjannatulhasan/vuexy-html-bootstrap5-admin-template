@@ -2,12 +2,12 @@
 .btn-gradient-dark {
   color: #fff;
   transition: all 0.2s ease;
-  background-image: linear-gradient(47deg, #4b4b4b, #1e1e1e);
+  background-image: linear-gradient(47deg, #545454, #1e1e1e);
   background-repeat: repeat; }
 
 .dark-layout .bg-gradient-dark, .dark-layout
 .btn-gradient-dark {
-  background-image: linear-gradient(47deg, #1e1e1e, #4b4b4b);
+  background-image: linear-gradient(47deg, #1e1e1e, #545454);
   background-repeat: repeat; }
 
 .bg-gradient-dark:hover, .bg-gradient-dark:active,
@@ -26,7 +26,7 @@
 .bg-gradient-dark:active, .bg-gradient-dark:focus,
 .btn-gradient-dark:active,
 .btn-gradient-dark:focus {
-  background-image: linear-gradient(47deg, #1e1e1e, #4b4b4b);
+  background-image: linear-gradient(47deg, #1e1e1e, #545454);
   background-repeat: repeat; }
 
 .bg-gradient-primary,
@@ -59,7 +59,7 @@
 .btn-gradient-secondary {
   color: #fff;
   transition: all 0.2s ease;
-  background-image: linear-gradient(47deg, #82868b, #9ca0a4);
+  background-image: linear-gradient(47deg, #969696, #b0b0b0);
   background-repeat: repeat; }
 
 .bg-gradient-secondary:hover, .bg-gradient-secondary:active,
@@ -78,7 +78,7 @@
 .bg-gradient-secondary:active, .bg-gradient-secondary:focus,
 .btn-gradient-secondary:active,
 .btn-gradient-secondary:focus {
-  background-image: linear-gradient(47deg, #696d71, #82868b);
+  background-image: linear-gradient(47deg, #7d7d7d, #969696);
   background-repeat: repeat; }
 
 .bg-gradient-success,
@@ -111,7 +111,7 @@
 .btn-gradient-info {
   color: #fff;
   transition: all 0.2s ease;
-  background-image: linear-gradient(47deg, #00cfe8, #1ce7ff);
+  background-image: linear-gradient(47deg, #0886E6, #299ef8);
   background-repeat: repeat; }
 
 .bg-gradient-info:hover, .bg-gradient-info:active,
@@ -130,14 +130,14 @@
 .bg-gradient-info:active, .bg-gradient-info:focus,
 .btn-gradient-info:active,
 .btn-gradient-info:focus {
-  background-image: linear-gradient(47deg, #00a1b5, #00cfe8);
+  background-image: linear-gradient(47deg, #0669b5, #0886E6);
   background-repeat: repeat; }
 
 .bg-gradient-warning,
 .btn-gradient-warning {
   color: #fff;
   transition: all 0.2s ease;
-  background-image: linear-gradient(47deg, #ff9f43, #ffb976);
+  background-image: linear-gradient(47deg, #F0C11B, #f3ce4b);
   background-repeat: repeat; }
 
 .bg-gradient-warning:hover, .bg-gradient-warning:active,
@@ -156,7 +156,7 @@
 .bg-gradient-warning:active, .bg-gradient-warning:focus,
 .btn-gradient-warning:active,
 .btn-gradient-warning:focus {
-  background-image: linear-gradient(47deg, #ff8510, #ff9f43);
+  background-image: linear-gradient(47deg, #cba10d, #F0C11B);
   background-repeat: repeat; }
 
 .bg-gradient-danger,

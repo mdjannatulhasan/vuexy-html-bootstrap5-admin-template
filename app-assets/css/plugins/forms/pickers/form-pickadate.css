@@ -104,7 +104,7 @@
 
 .dark-layout .picker--time .picker__holder .picker__list .picker__list-item.picker__list-item--disabled {
   background-color: #283046;
-  color: #82868b;
+  color: #969696;
   opacity: 0.5; }
 
 .dark-layout .picker--time .picker__holder .picker__list .picker__button--clear {

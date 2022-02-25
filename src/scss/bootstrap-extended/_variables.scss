@@ -26,23 +26,28 @@ $black: #22292f !default; // 231f48 22292f
 
 $purple: #7367f0 !default; //$primary
 $green: #28c76f !default; //$success
-$blue: #00cfe8 !default; //$info
-$orange: #ff9f43 !default; //$warning
+// $blue: #00cfe8 !default; //$info
+// $orange: #ff9f43 !default; //$warning
 // $red: #ea5455 !default; //$danger
 
 
 // Hoodopolis
 $primaryV1:#117B5B;
 $red: #FA4D55 !default; //$dangerMu
+$orange: #F0C11B !default; //$warningMu
+$blue: #0886E6 !default; //$infoPri
+$secondary:#969696; //Muted
+$dark: #545454 !default;
+
 // $primary: $purple !default;
 $primary: $primaryV1 !default;
-$secondary: #82868b !default;
+//$secondary: #82868b !default;
 $success: $green !default;
 $danger: $red !default;
 $info: $blue !default;
 $warning: $orange !default;
 $light: $gray-50 !default;
-$dark: #4b4b4b !default;
+//$dark: #4b4b4b !default;
 
 $min-contrast-ratio: 3 !default;
 

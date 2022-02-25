@@ -23,16 +23,16 @@
   border-color: #000000 !important; }
 
 .slider-dark {
-  background-color: rgba(75, 75, 75, 0.12); }
+  background-color: rgba(84, 84, 84, 0.12); }
 
 .slider-dark .noUi-connect {
-  background: #4b4b4b !important; }
+  background: #545454 !important; }
 
 .slider-dark.noUi-connect {
-  background: #4b4b4b !important; }
+  background: #545454 !important; }
 
 .slider-dark .noUi-handle {
-  border-color: #4b4b4b !important; }
+  border-color: #545454 !important; }
 
 .slider-light {
   background-color: rgba(246, 246, 246, 0.12); }
@@ -59,16 +59,16 @@
   border-color: #117B5B !important; }
 
 .slider-secondary {
-  background-color: rgba(130, 134, 139, 0.12); }
+  background-color: rgba(150, 150, 150, 0.12); }
 
 .slider-secondary .noUi-connect {
-  background: #82868b !important; }
+  background: #969696 !important; }
 
 .slider-secondary.noUi-connect {
-  background: #82868b !important; }
+  background: #969696 !important; }
 
 .slider-secondary .noUi-handle {
-  border-color: #82868b !important; }
+  border-color: #969696 !important; }
 
 .slider-success {
   background-color: rgba(40, 199, 111, 0.12); }
@@ -83,28 +83,28 @@
   border-color: #28c76f !important; }
 
 .slider-info {
-  background-color: rgba(0, 207, 232, 0.12); }
+  background-color: rgba(8, 134, 230, 0.12); }
 
 .slider-info .noUi-connect {
-  background: #00cfe8 !important; }
+  background: #0886E6 !important; }
 
 .slider-info.noUi-connect {
-  background: #00cfe8 !important; }
+  background: #0886E6 !important; }
 
 .slider-info .noUi-handle {
-  border-color: #00cfe8 !important; }
+  border-color: #0886E6 !important; }
 
 .slider-warning {
-  background-color: rgba(255, 159, 67, 0.12); }
+  background-color: rgba(240, 193, 27, 0.12); }
 
 .slider-warning .noUi-connect {
-  background: #ff9f43 !important; }
+  background: #F0C11B !important; }
 
 .slider-warning.noUi-connect {
-  background: #ff9f43 !important; }
+  background: #F0C11B !important; }
 
 .slider-warning .noUi-handle {
-  border-color: #ff9f43 !important; }
+  border-color: #F0C11B !important; }
 
 .slider-danger {
   background-color: rgba(250, 77, 85, 0.12); }

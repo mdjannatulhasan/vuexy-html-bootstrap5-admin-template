@@ -952,10 +952,10 @@ footer.footer-border {
   background-color: #FA4D55; }
 
 .avatar .avatar-status-away {
-  background-color: #ff9f43; }
+  background-color: #F0C11B; }
 
 .avatar .avatar-status-offline {
-  background-color: #82868b; }
+  background-color: #969696; }
 
 .avatar.avatar-tag {
   display: flex;
@@ -1045,7 +1045,7 @@ footer.footer-border {
   box-shadow: 0 0 0 2px #fff, inset 0 0 0 1px rgba(34, 41, 47, 0.07); }
 
 .avatar-group .avatar .avatar-content {
-  background-color: #9b9ea2 !important; }
+  background-color: #ababab !important; }
 
 .avatar-group .avatar:hover {
   transition: all 0.25s ease; }
@@ -2629,12 +2629,12 @@ footer.footer-border {
   width: 100%;
   cursor: pointer;
   border-radius: 0.42rem;
-  color: #82868b;
-  background-color: rgba(130, 134, 139, 0.06);
+  color: #969696;
+  background-color: rgba(150, 150, 150, 0.06);
   border: 1px solid #ebe9f1; }
 
 .custom-options-checkable .custom-option-item .custom-option-item-title {
-  color: #82868b; }
+  color: #969696; }
 
 .custom-option-item-check {
   position: absolute;
