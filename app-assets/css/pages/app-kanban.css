@@ -23,7 +23,7 @@
   padding-right: 0; }
 
 .kanban-application .kanban-wrapper .kanban-container .kanban-board .kanban-board-header .kanban-title-board {
-  color: #5e5873;
+  color: #353535;
   font-size: 1.1rem;
   padding: 0.5rem;
   font-weight: 500;
@@ -71,7 +71,7 @@
 
 .kanban-application .kanban-wrapper .kanban-container .kanban-board .kanban-item i,
 .kanban-application .kanban-wrapper .kanban-container .kanban-board .kanban-item svg {
-  stroke: #5e5873; }
+  stroke: #353535; }
 
 .kanban-application .kanban-wrapper .kanban-container .kanban-board .kanban-item .kanban-text {
   font-weight: 500; }
@@ -107,7 +107,7 @@
 
 .kanban-application .update-item-sidebar .avatar-add-member i,
 .kanban-application .update-item-sidebar .avatar-add-member svg {
-  stroke: #5e5873; }
+  stroke: #353535; }
 
 .kanban-application .update-item-sidebar .comment-editor .ql-editor {
   min-height: 5.5rem; }

@@ -726,7 +726,7 @@ body.dark-layout {
 .dark-layout .was-validated .form-check-input.is-valid,
 .dark-layout .was-validated select.form-select:not(:focus):valid,
 .dark-layout .was-validated select.form-select:not(:focus).is-valid {
-  border-color: #28c76f !important; }
+  border-color: #28AE4D !important; }
 
 .dark-layout .wizard .steps ul .disabled a,
 .dark-layout .wizard .steps ul .done a {
@@ -1155,7 +1155,7 @@ body.dark-layout {
 .dark-layout .ecommerce-application .content-right .list-view .ecommerce-card .item-options .wishlist span,
 .dark-layout .ecommerce-application .content-body .grid-view .ecommerce-card .item-options .wishlist span,
 .dark-layout .ecommerce-application .content-body .list-view .ecommerce-card .item-options .wishlist span {
-  color: #5e5873; }
+  color: #353535; }
 
 .dark-layout .ecommerce-application .content-right .grid-view .ecommerce-card .item-options .cart span,
 .dark-layout .ecommerce-application .content-right .list-view .ecommerce-card .item-options .cart span,

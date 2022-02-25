@@ -85,10 +85,10 @@
   color: #117B5B; }
 
 .ql-picker {
-  color: #5e5873 !important; }
+  color: #353535 !important; }
 
 .ql-stroke {
-  stroke: #5e5873 !important; }
+  stroke: #353535 !important; }
 
 .ql-active .ql-stroke {
   stroke: #117B5B !important; }
@@ -97,7 +97,7 @@
   fill: #117B5B !important; }
 
 .ql-fill {
-  fill: #5e5873 !important; }
+  fill: #353535 !important; }
 
 .ql-toolbar,
 .ql-container {

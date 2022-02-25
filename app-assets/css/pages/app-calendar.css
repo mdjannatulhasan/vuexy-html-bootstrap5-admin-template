@@ -214,7 +214,7 @@
 
 .app-calendar .app-calendar-sidebar .select-all ~ label,
 .app-calendar .app-calendar-sidebar .input-filter ~ label {
-  color: #5e5873;
+  color: #353535;
   font-weight: 500;
   letter-spacing: 0.4px; }
 
@@ -278,7 +278,7 @@
 
 .app-calendar .fc-popover .fc-popover-header .fc-popover-title,
 .app-calendar .fc-popover .fc-popover-header .fc-popover-close {
-  color: #5e5873; }
+  color: #353535; }
 
 .app-calendar .fc-popover .fc-popover-body *:not(:last-of-type) {
   margin-bottom: 0.3rem; }

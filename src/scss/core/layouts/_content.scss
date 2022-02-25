@@ -89,7 +89,7 @@ html {
     .content-wrapper {
       .content-header-title {
         font-weight: 500;
-        color: $gray-400;
+        color: $primaryGreen; //hoodo
         padding-right: $spacer;
         border-right: 1px solid lighten($gray-600, 10%);
       }

@@ -16,7 +16,7 @@ $gray-50: #f6f6f6 !default;
 $gray-100: #babfc7 !default; // $gray-lightest
 $gray-200: #ededed !default; // $gray-lighter
 $gray-300: #dae1e7 !default; // $gray-light
-$gray-400: #636363 !default;
+$gray-400: #636363 !default; //hoodo
 $gray-500: #adb5bd !default;
 $gray-600: #b8c2cc !default; // $gray
 $gray-700: #4e5154 !default;
@@ -25,7 +25,7 @@ $gray-900: #2a2e30 !default;
 $black: #22292f !default; // 231f48 22292f
 
 $purple: #7367f0 !default; //$primary
-$green: #28c76f !default; //$success
+// $green: #28c76f !default; //$success
 // $blue: #00cfe8 !default; //$info
 // $orange: #ff9f43 !default; //$warning
 // $red: #ea5455 !default; //$danger
@@ -33,13 +33,14 @@ $green: #28c76f !default; //$success
 
 // Hoodopolis
 $primaryV1:#117B5B;
+$primaryGreen:#004F34; //Primary
+$green: #28AE4D !default; //$successPri
 $red: #FA4D55 !default; //$dangerMu
 $orange: #F0C11B !default; //$warningMu
 $blue: #0886E6 !default; //$infoPri
 $secondary:#969696; //Muted
 $dark: #545454 !default;
 
-// $primary: $purple !default;
 $primary: $primaryV1 !default;
 //$secondary: #82868b !default;
 $success: $green !default;
@@ -179,7 +180,7 @@ $h4-font-size: $font-size-base * 1.286 !default;
 $h5-font-size: $font-size-base * 1.07 !default;
 
 $headings-font-family: inherit !default;
-$headings-color: #5e5873 !default;
+$headings-color: #353535 !default; //hoodo style guide "Muted"
 
 $display-font-sizes: (
   1: 6rem,

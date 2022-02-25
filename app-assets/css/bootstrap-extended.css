@@ -82,7 +82,7 @@ a:not([href]):hover {
   flex: 1 1 auto; }
 
 .text-body-heading {
-  color: #5e5873; }
+  color: #353535; }
 
 .text-body-heading:hover {
   color: inherit !important; }
@@ -194,17 +194,17 @@ textarea.form-control-lg {
 
 .input-group:not(.bootstrap-touchspin):focus-within .form-control.is-valid,
 .input-group:not(.bootstrap-touchspin):focus-within .input-group-text.is-valid {
-  border-color: #28c76f; }
+  border-color: #28AE4D; }
 
 .input-group:not(.bootstrap-touchspin):focus-within .form-control.is-invalid,
 .input-group:not(.bootstrap-touchspin):focus-within .input-group-text.is-invalid {
   border-color: #FA4D55; }
 
 .input-group.is-valid .input-group-text {
-  border-color: #28c76f !important; }
+  border-color: #28AE4D !important; }
 
 .input-group.is-valid:not(.bootstrap-touchspin):focus-within .input-group-text {
-  border-color: #28c76f; }
+  border-color: #28AE4D; }
 
 .input-group.is-invalid .input-group-text {
   border-color: #FA4D55 !important; }
@@ -239,7 +239,7 @@ textarea.form-control-lg {
   border-right: 0; }
 
 .input-group-merge .form-control.is-valid .input-group-text {
-  border-color: #28c76f; }
+  border-color: #28AE4D; }
 
 .form-check:not(.form-switch) .form-check-input[type='checkbox']:checked {
   background-size: 65%; }
@@ -1397,7 +1397,7 @@ select:-webkit-autofill {
   fill: #6e6b7b !important; }
 
 .earnings-card .apexcharts-canvas .apexcharts-pie .apexcharts-datalabel-value {
-  fill: #5e5873;
+  fill: #353535;
   font-size: 1.286rem;
   font-weight: 500; }
 
@@ -1573,7 +1573,7 @@ select:-webkit-autofill {
   font-size: 1rem;
   line-height: 1rem;
   border: 1px solid transparent;
-  color: #5e5873; }
+  color: #353535; }
 
 .nav-pills .nav-link.active {
   border-color: #117B5B;
